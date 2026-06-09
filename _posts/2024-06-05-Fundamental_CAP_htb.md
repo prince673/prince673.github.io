@@ -4,9 +4,6 @@ date: 2024-06-05 15:00:00 +0530
 categories: [CTF, HackTheBox]
 tags: [idor, pcap, linux-capabilities, cap-setuid, web-security, privilege-escalation, learning]
 author: Prince_kumar
-image:
-  path: /assets/img/posts/htb-cap/banner.png
-  alt: HackTheBox Cap Fundamentals
 ---
 
 Cap is classified as an "Easy" box on HackTheBox, but don't let that fool you. It packages three of the most real-world-relevant security concepts into a single clean attack chain. Understanding *why* each step works — not just *how* to execute it — is what separates a script-kiddie from a security professional. This post breaks down the three core weaknesses that make Cap tick.
