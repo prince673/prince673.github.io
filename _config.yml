@@ -19,7 +19,7 @@ title: Prince_Kumar # the main title
 tagline: Writeups, exploits & notes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
- "CTF writeups covering pwn, web, crypto, forensics and more.
+  CTF writeups covering pwn, web, crypto, forensics and more.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
